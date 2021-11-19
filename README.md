@@ -1,3 +1,5 @@
+![img](https://user-images.githubusercontent.com/29414956/142705333-057254fc-ebdf-4d5b-81e1-94897b9129af.jpg)
+
 # OER active learning
 
 This repository contains the code required to perform active learning for the oxygen evolution reaction with homogeneous catalysts.
