@@ -2,7 +2,7 @@
 
 # OER active learning
 
-This repository contains the code required to perform active learning for the oxygen evolution reaction with homogeneous catalysts.
+This repository contains the code required to perform active learning for the oxygen evolution reaction with homogeneous catalysts, the accompanying paper was published in [Molecules](https://www.mdpi.com/1420-3049/26/21/6362).
 
 ## Installing packages
 
